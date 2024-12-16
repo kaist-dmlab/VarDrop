@@ -1,2 +1,3 @@
 # VarDrop
-Official Implementation of VarDrop(AAAI25)
+
+This repository is the official PyTorch implementation of VarDrop(AAAI25)
