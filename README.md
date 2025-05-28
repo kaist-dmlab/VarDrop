@@ -44,7 +44,8 @@ To run the source codes, please follow the instructions below.
 @inproceedings{kang2025vardrop,
   title={VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting},
   author={Kang, Junhyeok and Shin, Yooju and Lee, Jae-Gil},
-  booktitle={AAAI},
+  booktitle={Proceedings of AAAI Conference on Artificial Intelligence},
+  pages={17742--17749},
   year={2025}
 }
 ```
