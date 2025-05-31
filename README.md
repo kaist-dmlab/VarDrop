@@ -1,5 +1,6 @@
 # (AAAI'25) VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting
-[![arXiv](https://img.shields.io/badge/arXiv-2501.14183-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2501.14183)
+[![](https://img.shields.io/badge/AAAI-2025-b3671b.svg?style=plastic)](https://ojs.aaai.org/index.php/AAAI/article/view/33951)
+[![](https://img.shields.io/badge/arXiv-2501.14183-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2501.14183)
 
 > __Publication__ </br>
 > Kang, J., Shin, Y., and Lee, J., "VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting", The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025.
